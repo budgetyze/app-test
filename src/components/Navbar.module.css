@@ -1,0 +1,16 @@
+/* @import '../vars.css'; */
+
+.container {
+  align-items: center;
+  background-color: azure;
+  display: flex;
+  height: 60px;
+  justify-content: space-between;
+  padding: 0 20px;
+}
+
+.brand {
+
+}
+
+.right {}
